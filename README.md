@@ -91,7 +91,7 @@ Using the ESCT as a consumer of the content is easy by just following these simp
 ### For "Educators"
 Using the ESCT as a purveyor of the curriculum is relatively straight-forward:
 1. **Determine if you need to customize the content to better suit your business** - whether that's changing the contents to reflect internal only information or if you simply want to remove modules your engineers won't find useful.
-    - If you determine that you wish to customize the content, fork the repository into your companies VCS with the necessary adjustments made.
+    - If you determine that you wish to customize the content, fork the repository into your company's VCS with the necessary adjustments made.
     - In the future, there may need to be additional configuration steps regarding establishing configuration secrets for reporting purposes - at which you would also do that at this time.
 2. **Instruct your workforce to follow the "Learners" instructions above using whichever version of the ESCT you would rather them use**
 
